@@ -10,13 +10,13 @@ This project aims to analyze social media data (tweets) to detect hate speech, s
   
 # Methodology
 
-# 1. Data Preprocessing:
-- Removal of Twitter handles, special characters, and numbers.
-- Tokenization and stemming.
+1. Data Preprocessing:
+ - Removal of Twitter handles, special characters, and numbers.
+ - Tokenization and stemming.
 
-# 2. Exploratory Data Analysis (EDA):
+2. Exploratory Data Analysis (EDA):
 
-- Visualization of frequent words and hashtags.
+ - Visualization of frequent words and hashtags.
   
 ![image](https://github.com/user-attachments/assets/024ba065-504f-4cb7-a3a5-302639c20b79)
 
@@ -26,15 +26,15 @@ This project aims to analyze social media data (tweets) to detect hate speech, s
 
 ![image](https://github.com/user-attachments/assets/f58a9d47-feb1-4272-8749-0a67f4a7a155)
 
-# 3. Feature Extraction:
+3. Feature Extraction:
 
-- Conversion of text data to numerical matrices using CountVectorizer.
+ - Conversion of text data to numerical matrices using CountVectorizer.
 
-# 4. Model Training and Evaluation:
+4. Model Training and Evaluation:
 
-- Logistic Regression model trained on bag-of-words representation.
-- Performance evaluation using accuracy, F1-score, and ROC AUC score.
-- Confusion matrix visualization for analyzing predictions.
+ - Logistic Regression model trained on bag-of-words representation.
+ - Performance evaluation using accuracy, F1-score, and ROC AUC score.
+ - Confusion matrix visualization for analyzing predictions.
 
 # Results
 - Trained model achieved 95% accuracy.
