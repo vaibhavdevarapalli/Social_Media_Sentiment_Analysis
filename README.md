@@ -36,6 +36,8 @@ This project aims to analyze social media data (tweets) to detect hate speech, s
  - Performance evaluation using accuracy, F1-score, and ROC AUC score.
  - Confusion matrix visualization for analyzing predictions.
 
+![Screenshot 2024-08-22 191759](https://github.com/user-attachments/assets/d38e9b18-7945-4ed0-9d82-03b9b42a0815)
+
 ## Results
 - Trained model achieved 95% accuracy.
 - F1-score was 54% and ROC AUC score were 94%, respectively.
